@@ -1,21 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Teng Jiang</title>
-    <link>/</link>
-    <description>Recent content on Teng Jiang</description>
+    <title>Posts on Teng Jiang</title>
+    <link>/posts/</link>
+    <description>Recent content in Posts on Teng Jiang</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 07 Jan 2023 00:10:31 -0500</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>About</title>
-      <link>/about/about/</link>
-      <pubDate>Sat, 07 Jan 2023 00:10:31 -0500</pubDate>
-      
-      <guid>/about/about/</guid>
-      <description></description>
-    </item>
-    
+    <lastBuildDate>Fri, 06 Jan 2023 23:53:41 -0500</lastBuildDate><atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>My Second Post</title>
       <link>/posts/my-second-post/</link>
