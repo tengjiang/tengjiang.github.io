@@ -9,24 +9,23 @@
     <lastBuildDate>Mon, 09 Jan 2023 02:19:20 -0500</lastBuildDate><atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Why Sebastian?</title>
-      <link>/posts/why-sebastian-new/</link>
+      <link>/posts/why-sebastian-old/</link>
       <pubDate>Mon, 09 Jan 2023 02:19:20 -0500</pubDate>
       
-      <guid>/posts/why-sebastian-new/</guid>
+      <guid>/posts/why-sebastian-old/</guid>
       <description>##Unfinished
 On social occasions, I go by Sebastian. I get a lot of &amp;ldquo;Oh, and it is &amp;hellip;&amp;rdquo; Of course, that&amp;rsquo;s not my given name. I chose it somehow arbitrarily when I was taking French in high school (You know how it went since I never bring that up). But I gave myself several very good reasons to stick to it until today.
 First: It&amp;rsquo;s LOOOOOOONG! Sebastian is a refined choice among today&amp;rsquo;s boy names, standing out with his posh feel and substantial size.</description>
     </item>
     
     <item>
-      <title>How music evolves: An observation with ISOMAP</title>
-      <link>/posts/music-revolution/</link>
-      <pubDate>Fri, 06 Jan 2023 23:53:41 -0500</pubDate>
+      <title>Why Sebastian?</title>
+      <link>/posts/why-sebastian/</link>
+      <pubDate>Mon, 09 Jan 2023 02:19:20 -0500</pubDate>
       
-      <guid>/posts/music-revolution/</guid>
-      <description>This is the post for music.
-We obtained our data from the spotify web API
-How does ISOMAP work </description>
+      <guid>/posts/why-sebastian/</guid>
+      <description>On social occasions, I go by Sebastian, a name I gave myself somehow arbitrarily when I was taking French in high school. I get a lot of &amp;ldquo;Oh, and it is &amp;hellip;&amp;rdquo; Of course, that&amp;rsquo;s not my given name. My given name is &amp;ldquo;Teng&amp;rdquo;(腾), which should be pronounced as [tʰəŋ], not [tʰɛn].
+One of the reasons I chose Sebastian over Teng is the latter&amp;rsquo;s pronunciation: I genuinely do not want people to get confused.</description>
     </item>
     
     <item>
@@ -35,23 +34,8 @@ How does ISOMAP work </description>
       <pubDate>Fri, 06 Jan 2023 23:23:43 -0500</pubDate>
       
       <guid>/posts/detour-to-quant/</guid>
-      <description>Nonetheless, I keep on. I tutor for
-Introduction This is bold text, and this is emphasized text.
-Visit the Hugo website!
-lalala a
-a
-a
-a a
-a
-a
-a
-a
-a
-a
-a
-a
-a a
-a</description>
+      <description>I just think it would be nice to archive something I&amp;rsquo;ve done so that it would be lost.
+I tutor prospective students enthusiastic about Financial Engineering at Peking University. Notes here. Deep-Deterministic-Policy-Gradient-based Dynamic Hedging Strategy: Repo under construction. </description>
     </item>
     
   </channel>
