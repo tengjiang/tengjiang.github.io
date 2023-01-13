@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>About on Teng Jiang</title>
-    <link>/about/about/</link>
+    <link>/about/</link>
     <description>Recent content in About on Teng Jiang</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 07 Jan 2023 00:10:31 -0500</lastBuildDate><atom:link href="/about/about/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 07 Jan 2023 00:10:31 -0500</lastBuildDate><atom:link href="/about/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About Me</title>
-      <link>/about/about/about/</link>
+      <link>/about/about/</link>
       <pubDate>Sat, 07 Jan 2023 00:10:31 -0500</pubDate>
       
-      <guid>/about/about/about/</guid>
+      <guid>/about/about/</guid>
       <description>I usually go by Sebastian, a name not of my heritage but somehow I feel connected to (See Why Sebastian?).
 My fields of interest encompass database systems, software engineering, high-performance computing, and time series analysis. I used to aim for a career as a quantitative developer but I took a sharp turn into Computer Science (See Detour to Quant), and I&amp;rsquo;m convinced that I&amp;rsquo;ve made the right decision.
 I feel extremely privileged to be working with and constantly inspired by brilliant minds.</description>
