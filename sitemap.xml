@@ -2,26 +2,32 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>/about/posts/</loc>
+    <lastmod>2023-01-09T02:19:20-05:00</lastmod>
+  </url><url>
     <loc>/about/</loc>
-    <lastmod>2023-01-07T00:10:31-05:00</lastmod>
+    <lastmod>2023-01-09T02:19:20-05:00</lastmod>
+  </url><url>
+    <loc>/about/posts/why-sebastian-new/</loc>
+    <lastmod>2023-01-09T02:19:20-05:00</lastmod>
+  </url><url>
+    <loc>/about/home/</loc>
+    <lastmod>2023-01-08T02:19:20-05:00</lastmod>
   </url><url>
     <loc>/about/about/</loc>
     <lastmod>2023-01-07T00:10:31-05:00</lastmod>
   </url><url>
-    <loc>/</loc>
+    <loc>/about/about/about/</loc>
     <lastmod>2023-01-07T00:10:31-05:00</lastmod>
   </url><url>
-    <loc>/posts/my-second-post/</loc>
+    <loc>/about/posts/music-revolution/</loc>
     <lastmod>2023-01-06T23:53:41-05:00</lastmod>
   </url><url>
-    <loc>/posts/</loc>
-    <lastmod>2023-01-06T23:53:41-05:00</lastmod>
-  </url><url>
-    <loc>/posts/my-first-post/</loc>
+    <loc>/about/posts/detour-to-quant/</loc>
     <lastmod>2023-01-06T23:23:43-05:00</lastmod>
   </url><url>
-    <loc>/series/</loc>
+    <loc>/about/series/</loc>
   </url><url>
-    <loc>/tags/</loc>
+    <loc>/about/tags/</loc>
   </url>
 </urlset>

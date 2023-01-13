@@ -2,27 +2,56 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Teng Jiang</title>
-    <link>/posts/</link>
+    <link>/about/posts/</link>
     <description>Recent content in Posts on Teng Jiang</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 06 Jan 2023 23:53:41 -0500</lastBuildDate><atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 09 Jan 2023 02:19:20 -0500</lastBuildDate><atom:link href="/about/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>My Second Post</title>
-      <link>/posts/my-second-post/</link>
-      <pubDate>Fri, 06 Jan 2023 23:53:41 -0500</pubDate>
+      <title>Why Sebastian?</title>
+      <link>/about/posts/why-sebastian-new/</link>
+      <pubDate>Mon, 09 Jan 2023 02:19:20 -0500</pubDate>
       
-      <guid>/posts/my-second-post/</guid>
-      <description></description>
+      <guid>/about/posts/why-sebastian-new/</guid>
+      <description>##Unfinished
+On social occasions, I go by Sebastian. I get a lot of &amp;ldquo;Oh, and it is &amp;hellip;&amp;rdquo; Of course, that&amp;rsquo;s not my given name. I chose it somehow arbitrarily when I was taking French in high school (You know how it went since I never bring that up). But I gave myself several very good reasons to stick to it until today.
+First: It&amp;rsquo;s LOOOOOOONG! Sebastian is a refined choice among today&amp;rsquo;s boy names, standing out with his posh feel and substantial size.</description>
     </item>
     
     <item>
-      <title>My First Post</title>
-      <link>/posts/my-first-post/</link>
+      <title>How music evolves: An observation with ISOMAP</title>
+      <link>/about/posts/music-revolution/</link>
+      <pubDate>Fri, 06 Jan 2023 23:53:41 -0500</pubDate>
+      
+      <guid>/about/posts/music-revolution/</guid>
+      <description>This is the post for music.
+We obtained our data from the spotify web API
+How does ISOMAP work </description>
+    </item>
+    
+    <item>
+      <title>Detour to Quant</title>
+      <link>/about/posts/detour-to-quant/</link>
       <pubDate>Fri, 06 Jan 2023 23:23:43 -0500</pubDate>
       
-      <guid>/posts/my-first-post/</guid>
-      <description></description>
+      <guid>/about/posts/detour-to-quant/</guid>
+      <description>Nonetheless, I keep on. I tutor for
+Introduction This is bold text, and this is emphasized text.
+Visit the Hugo website!
+lalala a
+a
+a
+a a
+a
+a
+a
+a
+a
+a
+a
+a
+a a
+a</description>
     </item>
     
   </channel>
