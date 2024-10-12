@@ -14,7 +14,7 @@ main:
     conference: "An FPGA-based network switch with a custom packet processing pipeline and supports 4 ingress/egress ports."
     pdf: https://github.com/daFPGASwitch/daFPGASwitch/blob/main/daFPGASwitch_report.pdf
     code: https://github.com/daFPGASwitch/daFPGASwitch
-    image: /assets/img/daFPGASwitch.png
+    image: /assets/img/dafpgaswitch.png
 
   - title: "Selected Projects in High Performance Computing"
     website: /projects#hpc
