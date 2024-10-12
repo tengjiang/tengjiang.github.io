@@ -6,5 +6,5 @@ main:
     conference_short: eBPF'24
     conference: ACM SIGCOMM 2024 Workshop on eBPF and Kernel Extensions <strong>(eBPF)</strong>, 2024.
     pdf: https://dl.acm.org/doi/pdf/10.1145/3672197.3673432
-    image: ./assets/img/ebpf-page-fault.png
+    image: /assets/img/ebpf-page-fault.png
     notes: Working on turning it into a full paper
