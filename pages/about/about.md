@@ -1,4 +1,4 @@
 ---
 permalink: /about/
-redirect_to: "https://tengjiang.github.io/"
+redirect_to: '/'
 ---
