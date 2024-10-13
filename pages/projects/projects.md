@@ -18,7 +18,7 @@ A curated list of the projects (excluding research projects) I've done.
 
 <div style="display: flex; align-items: center;">
     <img src="/assets/img/cesame_blk_diagram.png" alt="cesame-arch" style="width: 45%; margin-right: 20px;">
-    <p><a href="https://github.com/cesame-pl/cesame">Cesame</a> is a C-like programming language that features <b>native support for first-class functions</b>. Cesame also supports non-primitive types such as String, Array, Struct, Socket, and File. Cesame abstracts away pointers and stores most data on the heap, except for primitives and references to objects, similar to Java.
+    <p><b><a href="https://github.com/cesame-pl/cesame">Cesame</a></b> is a C-like programming language that features <b>native support for first-class functions</b>. Cesame also supports non-primitive types such as String, Array, Struct, Socket, and File. Cesame abstracts away pointers and stores most data on the heap, except for primitives and references to objects, similar to Java.
     <br>
     The compiler is written in <b>OCaml</b> with C libraries and targets LLVM IR (phases of Cesame compiler illustrated on the left).</p>
 </div>
@@ -29,7 +29,7 @@ A curated list of the projects (excluding research projects) I've done.
 <img src="/assets/img/dafpgaswitch.png" alt="daFPGASwitch" style="width: 80%; display: block; margin: 20px auto;">
 
 
-[daFPGASwitch](https://github.com/daFPGASwitch/daFPGASwitch) is a **customizable FPGA-based network switch** that comes with the following components: A MAC-to-port
+**[daFPGASwitch](https://github.com/daFPGASwitch/daFPGASwitch)** is a **customizable FPGA-based network switch** that comes with the following components: A MAC-to-port
 lookup table unit, per-ingress-port virtual output queues (VOQs), a queue management unit that manages the mapping
 between packets stored in memory and the VOQ, a scheduling unit that controls the dequeuing decision (which packets get
 sent to the switching fabric), and a crossbar switching fabric. Different patterns of packet traffic are generated with software
@@ -54,7 +54,7 @@ Source Code available upon request. A **simplistic database** that stores struct
 * Tuned hyper-parameters with grid search and optimized memory access with 3-D texture memory. Enhanced the time/bandwidth efficiency by 26 times. -->
 
 
-GitHub repo [here](https://github.com/tengjiang/CUDA-3D-poisson-solver). In this project, I aimed to optimize **solving the 3D Poisson equation using CUDA** by parallelizing computations on the GPU. Key achievements include:
+GitHub repo **[here](https://github.com/tengjiang/CUDA-3D-poisson-solver)**. In this project, I aimed to optimize **solving the 3D Poisson equation using CUDA** by parallelizing computations on the GPU. Key achievements include:
 
 * Optimized binary tree parallel reduction up to the warp level using techniques like sequential addressing and warp unrolling.
 * Implemented Jacobi, Red-Black Gauss-Seidel, and Block-wise Gauss-Seidel methods in CUDA.
@@ -69,7 +69,7 @@ GitHub repo [here](https://github.com/tengjiang/CUDA-3D-poisson-solver). In this
 
 In this project, I implemented the SUM All Reduce operation, commonly used in Deep Learning to compute the mean of gradients, using four different algorithms: Brute Force, Butterfly, Tree, and Ring AllReduce. These algorithms were designed to address challenges in complex cross-node network environments, such as bandwidth limitations. -->
 
-GitHub repo [here](https://github.com/tengjiang/mpi-all-reduce). In this project, I implemented the SUM AllReduce operation in MPI, commonly used in deep learning to compute gradient means, using four algorithms: Brute Force, Butterfly, Tree, and Ring AllReduce. These algorithms were optimized to **handle bandwidth limitations** in complex cross-node network environments.
+GitHub repo **[here](https://github.com/tengjiang/mpi-all-reduce)**. In this project, I implemented the SUM AllReduce operation in MPI, commonly used in deep learning to compute gradient means, using four algorithms: Brute Force, Butterfly, Tree, and Ring AllReduce. These algorithms were optimized to **handle bandwidth limitations** in complex cross-node network environments.
 
 <br>
 ## Time Series Research {#time_series}

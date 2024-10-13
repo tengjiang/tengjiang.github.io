@@ -1,4 +1,4 @@
-<h2 class="fire" id="publications" style="margin: 2px 0px -15px;"><img src="/assets/img/flappy_default.png" alt="flappy">Publications</h2>
+<h2 class="sleep" id="publications" style="margin: 2px 0px -15px;"><img src="/assets/img/flappy_default.png" alt="flappy" style="width: 28px; height: 28px;">Publications</h2>
 
 <div class="publications">
 <ol class="bibliography">

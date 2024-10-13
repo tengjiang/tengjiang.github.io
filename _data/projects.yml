@@ -18,6 +18,8 @@ main:
 
   - title: "Selected Projects in High Performance Computing"
     website: /projects#hpc
-    conference: "CUDA Project: Optimized 3D Poisson solver in CUDA, achieving 26x speedup through parallelization and memory tuning. <br> MPI Project: Implemented SUM AllReduce in MPI using 4 algorithms to handle bandwidth constraints in distributed systems."
+    conference: "CUDA Project: Optimized 3D Poisson solver in CUDA, achieving 26x speedup through parallelization and memory tuning. <br> MPI Project: Implemented AllReduce in MPI using 4 algorithms to handle bandwidth constraints in distributed systems."
     conference_short: HPC
     image: /assets/img/CUDA_poster.jpg
+    CUDA: https://github.com/tengjiang/CUDA-3D-poisson-solver
+    MPI: https://github.com/tengjiang/mpi-all-reduce

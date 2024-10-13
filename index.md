@@ -2,7 +2,7 @@
 layout: default
 ---
 <h2 class="flappy">
-<img src="/assets/img/flappy_default.png" alt="flappy">
+<img src="/assets/img/flappy_default.png" alt="flappy" style="width: 28px; height: 28px;">  
 About Me
 </h2>
 
@@ -26,11 +26,11 @@ var fun = function lang(l) {
 
 I’m Teng, a Master of Science in Computer Science student at Columbia University, working my way to becoming a savvy **system programmer**, **hacker**, and **researcher**!
 
-My research interests revolve around modern **operating systems**. Currently, I’m looking into how advancements across the software and hardware stack can enhance the **performance**, **reliability**, and **environmental sustainability** of established technologies such as virtualization and memory management. Some of my ongoing projects are:
+My research interests revolve around modern **operating systems**. Currently, I’m looking into how advancements across the software and hardware stack can enhance the performance, reliability, and environmental sustainability of established technologies such as virtualization and memory management. Some of my ongoing projects are:
 
-* Scheduling for over-subscribed virtual CPUs (vCPUs) at a microsecond time scale.
-* Custom page faulting handling with eBPF for use cases like VM migration and memory management. See <a href="#publications">publication</a>.
-* Formal verification of an open-source Rust library developed by Cloudflare: [mmap-sync](https://github.com/cloudflare/mmap-sync).
+* **Scheduling for over-subscribed virtual CPUs** (vCPUs) at a microsecond time scale.
+* **Custom page fault handling with eBPF** for use cases like VM migration and memory management. See <a href="#publications">publication</a>.
+* **Formal verification** of an open-source Rust library developed by Cloudflare: [mmap-sync](https://github.com/cloudflare/mmap-sync).
 <!-- Keywords: Operating Systems, Virtualization, eBPF, Scheduling, FPGA, Programmable Networks, smartNICs -->
 
 I mostly go by Teng, occasionally by Sebastian, a name not of my heritage but somehow I feel connected to (See [Why Sebastian?](/why-sebastian)). See my life outside of work [here](/fun-life).
@@ -40,13 +40,8 @@ I mostly go by Teng, occasionally by Sebastian, a name not of my heritage but so
 
 <br>
 
-
-<!-- Before Momenta, I worked for Waymo as a tech lead & senior software engineer. The projects I delivered include ML-based prediction (VectorNet is one of the published results in this project), online lane estimation, offline auto-labeling and LiDAR perception.
-
-I got my PhD degree from USC in 2018 Nov, advised by [Prof. Ram Nevatia](http://iris.usc.edu/people/nevatia/), with a focus on CV&DL. I obtained my B.S. degree from Tsinghua University in 2015. I did internship at Sensetime in 2015, at Google Research during 2017 summer, at Google Cloud AI in 2018.  -->
-
 <h2 class="fire" id="news">
-<img src="/assets/img/flappy_default.png" alt="flappy">
+<img src="/assets/img/flappy_default.png" alt="flappy" style="width: 28px; height: 28px;">
 News & Updates
 </h2>
 <div class="updates-container">
@@ -65,13 +60,13 @@ News & Updates
 
 <br>
 
-<h2 class="sleep" id="news">
-<img src="/assets/img/flappy_default.png" alt="flappy">
+<h2 class="flappy" id="news">
+<img src="/assets/img/flappy_default.png" alt="flappy" style="width: 28px; height: 28px;">
 Education
 </h2>
 
 <div align="left">
-        <strong> Columbia University, NY, USA (Aug 2015 - Dec 2018) </strong>
+        <strong> Columbia University, New York, NY (Aug 2022 - May 2025) </strong>
         <a href="https://cs.columbia.edu/" target="_blank" rel="external">
             <img src="/assets/img/columbia_new.png" style="float: right; margin-top: -10px; margin-left: 0px;" width="70" height="70">
         </a>
@@ -97,13 +92,13 @@ Education
       </div>
 <br>
 
-<h2 class="flappy" id="professional">
-<img src="/assets/img/flappy_default.png" alt="flappy">
+<h2 class="fire" id="professional">
+<img src="/assets/img/flappy_default.png" alt="flappy" style="width: 28px; height: 28px;">
 Profession Experience
 </h2>
 
 <div align="left">
-        <strong> Amazon, WA, USA (May 2023 - Aug 2023) </strong>
+        <strong> Amazon, Seattle, WA (May 2023 - Aug 2023) </strong>
         <a href="https://amazon.com/" target="_blank" rel="external">
             <img src="/assets/img/amazon.png" style="float: right; margin-top: -10px; margin-left: 0px;" width="70" height="70">
         </a>
@@ -135,16 +130,16 @@ Profession Experience
 <br>
 
 <h2 class="flappy" id="teaching">
-<img src="/assets/img/flappy_default.png" alt="flappy">
+<img src="/assets/img/flappy_default.png" alt="flappy" style="width: 28px; height: 28px;">
 Teaching Experience
 </h2>
-* I am the TA for EECS 6891: Extensible Operating Systems, and I've designed [homework on process off-cpu tracing](/assets/pdf/EECS6891_fa24_homework.pdf). [Recording](https://www.youtube.com) on Youtube of the eBPF crash course I gave.
-* TA for COMS 4111 Introduction to Databases (Fall 2023) and COMS 6111 Advanced Database Systems (Spring 2023).
+* I am the TA for EECS 6891: Extensible Operating Systems, and I've designed **[homework on process off-cpu tracing](/assets/pdf/EECS6891_fa24_homework.pdf)**. **[Recording](https://www.youtube.com)** on Youtube of the eBPF crash course I gave.
+* TA for **COMS 4111 Introduction to Databases** (Fall 2023) and **COMS 6111 Advanced Database Systems** (Spring 2023).
 
 <br>
 
 <h2 class="fire" id="involvement">
-<img src="/assets/img/flappy_default.png" alt="flappy">
+<img src="/assets/img/flappy_default.png" alt="flappy" style="width: 28px; height: 28px;">
 Involvement
 </h2>
 * Columbia University [Cyber Security Club](https://cucyber.cs.columbia.edu/)
