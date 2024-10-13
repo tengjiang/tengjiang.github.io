@@ -23,8 +23,8 @@ Sebastian is a refined choice, standing out with its posh feel and substantial l
 
 ## Phonetic Reasons: It's in the way you pronounce it
 
-<div style="display:flex; justify-content:center;">
-  <div style="position:relative; padding-bottom:56.25%; height:0; overflow:hidden; max-width:100%; width:80%; height:auto;">
+<div style="display:flex; justify-content:center; margin-bottom:20px">
+  <div style="position:relative; padding-bottom:56.25%; height:0; overflow:hidden; max-width:100%; width:100%;">
     <iframe 
         src="https://www.youtube.com/embed/iTgfinE9m20?si=QnjtYXpDUFxq2FyQ&amp;start=164" 
         title="YouTube video player" 
@@ -47,7 +47,6 @@ Sebastian is a refined choice, standing out with its posh feel and substantial l
 </style>
 
 
-<br>
 
 
 
