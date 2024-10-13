@@ -133,7 +133,7 @@ Profession Experience
 <img src="/assets/img/flappy_default.png" alt="flappy" style="width: 28px; height: 28px;">
 Teaching Experience
 </h2>
-* I am the TA for EECS 6891: Extensible Operating Systems, and I've designed **[homework on process off-cpu tracing](/assets/pdf/EECS6891_fa24_homework.pdf)**. **[Recording](https://www.youtube.com)** on Youtube of the eBPF crash course I gave.
+* I am the TA for **EECS 6891: Extensible Operating Systems**, and I've designed **[homework on process off-cpu tracing](/assets/pdf/EECS6891_fa24_homework.pdf)**, inspired by Brendan Gregg's [post](https://www.brendangregg.com/offcpuanalysis.html) on off-cpu analysis. **[Recording](https://youtu.be/Z5wciVIjRV4)** on Youtube of the eBPF crash course I gave.
 * TA for **COMS 4111 Introduction to Databases** (Fall 2023) and **COMS 6111 Advanced Database Systems** (Spring 2023).
 
 <br>
