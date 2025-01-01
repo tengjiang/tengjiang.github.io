@@ -318,3 +318,37 @@ blockquote {
     font-size: 14px !important;
     border-left: 5px solid #eee;
 }
+
+.sidebar {
+    position: fixed;
+    top: 20px; /* Adjust vertical position as needed */
+    right: 0; /* Keep it aligned with the right edge of the viewport */
+    width: 200px; /* Adjust the width to ensure it fits your content */
+    padding: 0; /* Remove padding for a cleaner look */
+    font-family: 'JetBrains Mono', 'Fira Code', "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    overflow-y: auto;
+    max-height: calc(100vh - 120px); /* Ensures it doesn't overflow */
+    background-color: transparent; /* No background color */
+    border: none; /* Remove any borders */
+  }
+  
+  /* Styling for preformatted text in the sidebar */
+  .sidebar pre {
+    white-space: pre-wrap;
+    line-height: 1.0;
+    font-size: 12px;
+    text-align: center; /* Center the ASCII art for better alignment */
+    background-color: transparent; /* No background color for the pre tag */
+    padding: 0;
+    margin: 0;
+    color: inherit; /* Ensure it inherits the text color from the page */
+    border: none;
+  }
+  
+  /* Make content and sidebar stack on smaller screens */
+  @media screen and (max-width: 1400px) {
+    .sidebar {
+      display: none;
+    }
+  }
+  
