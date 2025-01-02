@@ -1,7 +1,7 @@
 <!doctype html>
 <html lang="{{ site.lang | default: "en-US" }}">
   <head>
-    <link rel="icon" href="/big-pepper.ico" type="image/x-icon" >
+    <link rel="icon" href="/big-pepper.ico" type="image/x-icon">
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="chrome=1">
     <title>{{ site.title | default: site.github.repository_name }}</title>
@@ -106,7 +106,7 @@
   <body>
     <div class="wrapper">
       <header>
-        <h1 class="flappy", style="margin: 5px;">
+        <h1 class="flappy" style="margin: 5px;">
           <!--img src="flappy1.png" alt="flappy"-->
           {{ site.title | default: site.github.repository_name }}
         </h1>
@@ -144,8 +144,19 @@
               </script>
             </div>
           </div>
-          
-        <img src="/assets/img/profile.jpg" />
+
+        <!-- Randomized Profile Image -->
+        <img id="profileImage" alt="Profile Picture" />
+
+        <script>
+          const images = [
+            '/assets/img/profile.jpg',
+            '/assets/img/profile_winter.jpg'
+          ];
+          const randomImage = images[Math.floor(Math.random() * images.length)];
+          document.getElementById('profileImage').src = randomImage;
+        </script>
+
         <p>{{ site.description | default: site.github.project_tagline }}</p>
         
         <a href="https://github.com/tengjiang" target="_blank" rel="external" style="padding-left:10px;">
@@ -160,7 +171,6 @@
         <i class="fa fa-envelope-square ai-2x" aria-hidden="true"></i>
         </a>
                 
-        
         <br />
         <br />
         <br />
@@ -204,12 +214,10 @@
       {{ content }}
 
       </section>
-      
     </div>
     <script src="{{ '/assets/js/scale.fix.js' | relative_url }}"></script>
 
-
-  {% if site.google_analytics %}
+    {% if site.google_analytics %}
     <script>
         (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
         (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
@@ -219,6 +227,6 @@
         ga('create', '{{ site.google_analytics }}', 'auto');
         ga('send', 'pageview');
     </script>
-  {% endif %}
+    {% endif %}
   </body>
 </html>
