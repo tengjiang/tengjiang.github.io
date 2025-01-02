@@ -24,17 +24,17 @@ var fun = function lang(l) {
 -->
 
 
-I’m Teng, a Master of Science in Computer Science student at Columbia University, working my way to becoming a savvy **system programmer**, **hacker**, and **researcher**!
+I'm Teng, a Master of Science in Computer Science student at Columbia University, working my way to becoming a savvy **system programmer**, **hacker**, and **researcher**.
 
-My research interests revolve around modern **operating systems**. Currently, I’m looking into how advancements across the software and hardware stack can enhance the performance, reliability, and environmental sustainability of established technologies such as virtualization and memory management. Some of my ongoing projects are:
+My research focuses on advancing the core mechanics of operating systems, with a strong interest in distributed systems, architecture, networking, and the ecosystem of tools that support these areas. Currently, I'm exploring how advancements across the software and hardware stack can enhance the performance and reliability of established technologies such as virtualization and memory management. Some of my ongoing projects are:
 
-* **Scheduling for over-subscribed virtual CPUs** (vCPUs) at a microsecond time scale.
-* **Custom page fault handling with eBPF** for use cases like VM migration and memory management. See <a href="#publications">publication</a>.
-* **Formal verification** of an open-source Rust library developed by Cloudflare: [mmap-sync](https://github.com/cloudflare/mmap-sync).
+* **Scheduling for over-subscribed virtual CPUs** (vCPUs) at a microsecond time scale. This work was **submitted to OSDI 2025**.
+* **Custom page fault handling with eBPF** for use cases like faster VM migration and garbage collection. See <a href="#publications">publication</a>.
+<!-- **Formal verification** of an open-source Rust library developed by Cloudflare: [mmap-sync](https://github.com/cloudflare/mmap-sync). -->
 <!-- Keywords: Operating Systems, Virtualization, eBPF, Scheduling, FPGA, Programmable Networks, smartNICs -->
 
-I mostly go by Teng, occasionally by Sebastian, a name not of my heritage but somehow I feel connected to (See [Why Sebastian?](/why-sebastian)). See my life outside of work [here](/fun-life).
-<!--I am a die-hard fan of Beyoncé and and have seen her performing live for [5 times](http://iris.usc.edu/people/nevatia/) in 2023.-->
+I mostly go by Teng, occasionally by Sebastian, a name not of my heritage, but somehow I feel connected to (See [Why Sebastian?](/why-sebastian)). See my life outside of work [here](/fun-life).
+<!--I am a die-hard fan of Beyoncé and have seen her performing live for [5 times](https://www.beyonce.com/) in 2023.-->
 
 ❗️❗️❗️ **I'm looking for PhD opportunities in computer systems starting in Fall 2025. Feel free to get in touch if you know of any!** ❗️❗️❗️
 
@@ -49,7 +49,7 @@ News & Updates
     <p><b>10/05/2024:</b> I'll be at SOSP 2024—see you all there! 🤠 </p>
     <p><b>08/03/2024:</b> At SIGCOMM'24 presenting our work on custom page fault handling. </p>
     <p><b>06/13/2024:</b> Our vision paper <i><b>Custom Page Fault Handling With eBPF</b></i> was accepted to eBPF'24! </p>
-    <p><b>01/11/2024:</b> I started my master’s degree in Computer Science at Columbia University! </p>
+    <p><b>01/11/2024:</b> I started my master's degree in Computer Science at Columbia University! </p>
     <!-- Add more updates as needed -->
   </div>
 </div>
