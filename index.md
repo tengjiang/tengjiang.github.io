@@ -142,7 +142,8 @@ Teaching Experience
 <img src="/assets/img/flappy_default.png" alt="flappy" style="width: 28px; height: 28px;">
 Involvement
 </h2>
-* Columbia University [Cyber Security Club](https://cucyber.cs.columbia.edu/)
+* ATC'25 Artifact Evaluation Committee.
+* Columbia University [Cyber Security Club](https://cucyber.cs.columbia.edu/).
 * Columbia Engineering [qSTEM](https://egsc.engineering.columbia.edu/content/qstem-club).
 
 <br>
