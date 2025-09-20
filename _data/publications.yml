@@ -1,11 +1,11 @@
 main:
   - title: "Black-box Microsecond-scale VM Scheduling"
     image: /assets/img/vmsched-diagram.png
-    notes: In Submission to OSDI 2025.
+    notes: In Submission to ASPLOS 2026.
 
-  - title: "Automated Binding of Verified Programs to Model Checked Code"
-    image: /assets/img/Kanify-with-code.png
-    notes: In Submission to RustVerify 2025.
+  # - title: "Automated Binding of Verified Programs to Model Checked Code"
+  #   image: /assets/img/Kanify-with-code.png
+  #   notes: In Submission to RustVerify 2025.
   
   - title: "Custom Page Fault Handling With eBPF"
     website: https://dl.acm.org/doi/10.1145/3672197.3673432

@@ -24,19 +24,21 @@ var fun = function lang(l) {
 -->
 
 
-I'm Teng, a Master of Science in Computer Science student at Columbia University, working my way to becoming a savvy **system programmer**, **hacker**, and **researcher**.
+I'm Teng (though most people call me Sebastian), a Ph.D. candidate in Computer Science at <span style="font-family: Helvetica, Arial, sans-serif; color:#FFD100; font-weight:bold;">UCLA</span> <img src="/assets/img/UCLA.png" 
+     alt="UCLA" 
+     style="height:1em;vertical-align:middle;">, working my way to becoming a savvy **system programmer** and **researcher** across the stack. I'm advised by [Konstantinos Kallas](https://angelhof.github.io/) and [Sam Kumar](https://www.samkumar.org/). During my master's at Columbia University, I worked on several projects, including:
 
-My research focuses on advancing the core mechanics of operating systems, with a strong interest in distributed systems, architecture, networking, and the ecosystem of tools that support these areas. Currently, I'm exploring how advancements across the software and hardware stack can enhance the performance and reliability of established technologies such as virtualization and memory management. Some of my ongoing projects are:
+<!-- My research focuses on advancing the core mechanics of operating systems, with a strong interest in distributed systems, architecture, networking, and the ecosystem of tools that support these areas. Currently, I'm exploring how advancements across the software and hardware stack can enhance the performance and reliability of established technologies such as virtualization and memory management. Some of my ongoing projects are: -->
 
-* **Scheduling for over-subscribed virtual CPUs** (vCPUs) at a microsecond time scale. This work was **submitted to <ins>OSDI 2025</ins>**.
+* **Scheduling for over-subscribed virtual CPUs** (vCPUs) at a microsecond time scale. This work was **submitted to <ins>ASPLOS 2026</ins>**.
 * **Custom page fault handling with eBPF** for use cases like faster VM migration and garbage collection. See <a href="#publications">publication</a>.
 <!-- **Formal verification** of an open-source Rust library developed by Cloudflare: [mmap-sync](https://github.com/cloudflare/mmap-sync). -->
 <!-- Keywords: Operating Systems, Virtualization, eBPF, Scheduling, FPGA, Programmable Networks, smartNICs -->
 
-I mostly go by Teng, occasionally by Sebastian, a name not of my heritage, but somehow I feel connected to (See [Why Sebastian?](/why-sebastian)). See my life outside of work [here](/fun-life).
+While Sebastian isn't a name of my heritage, it's a name I've grown attached to (See [Why Sebastian?](/why-sebastian)). See my life outside of work [here](/fun-life).
 <!--I am a die-hard fan of Beyoncé and have seen her performing live for [5 times](https://www.beyonce.com/) in 2023.-->
 
-❗️❗️❗️ **I'm looking for PhD opportunities in computer systems starting in Fall 2025. Feel free to get in touch through my email: <ins>*teng.j at columbia dot edu*</ins>.** ❗️❗️❗️
+**Feel free to get in touch through my email: <ins>*jiang [at] cs [dot] ucla [dot] edu*</ins>.**
 
 <br>
 
@@ -46,6 +48,7 @@ News & Updates
 </h2>
 <div class="updates-container">
   <div class="updates">
+    <p><b>09/01/2025:</b> Graduated from Columbia and started my Ph.D. at UCLA. </p>
     <p><b>10/05/2024:</b> I'll be at SOSP 2024—see you all there! 🤠 </p>
     <p><b>08/03/2024:</b> At SIGCOMM'24 presenting our work on custom page fault handling. </p>
     <p><b>06/13/2024:</b> Our vision paper <i><b>Custom Page Fault Handling With eBPF</b></i> was accepted to eBPF'24! </p>
@@ -64,6 +67,19 @@ News & Updates
 <img src="/assets/img/flappy_default.png" alt="flappy" style="width: 28px; height: 28px;">
 Education
 </h2>
+
+<div align="left">
+        <strong> University of California, Los Angeles, Los Angeles, CA (Sept 2025 - ) </strong>
+        <a href="https://cs.ucla.edu/" target="_blank" rel="external">
+            <img src="/assets/img/UCLA.png" style="float: right; margin-top: -10px; margin-left: 0px;" width="70" height="70">
+        </a>
+        <ul>
+        <li>
+          Doctor of Philosophy, Computer Science</li>
+        <li>
+          Advisor: <a href="https://angelhof.github.io/">Prof. Konstantinos Kallas</a> and <a href="https://www.samkumar.org/">Prof. Sam Kumar</a></li>
+      </ul>      
+      </div>
 
 <div align="left">
         <strong> Columbia University, New York, NY (Aug 2022 - May 2025) </strong>
@@ -133,8 +149,9 @@ Profession Experience
 <img src="/assets/img/flappy_default.png" alt="flappy" style="width: 28px; height: 28px;">
 Teaching Experience
 </h2>
-* I am the TA for **EECS 6891: Extensible Operating Systems**, and I've designed **[homework on process off-cpu tracing](/assets/pdf/EECS6891_fa24_homework.pdf)**, inspired by Brendan Gregg's [post](https://www.brendangregg.com/offcpuanalysis.html) on off-cpu analysis. **[Recording](https://youtu.be/Z5wciVIjRV4)** on Youtube of the eBPF crash course I gave.
-* TA for **COMS 4111 Introduction to Databases** (Fall 2023) and **COMS 6111 Advanced Database Systems** (Spring 2023).
+* I was the TA for **EECS 6891: Extensible Operating Systems**, and I designed **[homework on process off-cpu tracing](/assets/pdf/EECS6891_fa24_homework.pdf)**, inspired by Brendan Gregg's [post](https://www.brendangregg.com/offcpuanalysis.html) on off-cpu analysis. **[Recording](https://youtu.be/Z5wciVIjRV4)** on Youtube of the eBPF crash course I gave.
+* TA for **[COMS W4995 C++ Deep Dive for C Programmers](https://c2cxx.github.io/)**.
+* Head TA for **COMS 4111 Introduction to Databases** (Fall 2023) and **COMS 6111 Advanced Database Systems** (Spring 2023).
 
 <br>
 
