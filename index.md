@@ -24,7 +24,16 @@ var fun = function lang(l) {
 -->
 
 
-I'm Teng (though most people call me Sebastian), a Ph.D. candidate in Computer Science at <span style="font-family: Helvetica, Arial, sans-serif; color:#FFD100; font-weight:bold;">UCLA</span> <img src="/assets/img/UCLA.png" 
+I'm Teng (though most people call me Sebastian), a Ph.D. candidate in Computer Science at <span style="
+  font-family: Helvetica, Arial, sans-serif;
+  font-weight: bold;
+  background: linear-gradient(90deg, #FFD100 0%, #FFD100 25%, #2774AE 75%, #2774AE 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+">
+  UCLA
+</span>
+<img src="/assets/img/UCLA.png" 
      alt="UCLA" 
      style="height:1em;vertical-align:middle;">, working my way to becoming a savvy **system programmer** and **researcher** across the stack. I'm advised by [Konstantinos Kallas](https://angelhof.github.io/) and [Sam Kumar](https://www.samkumar.org/). During my master's at Columbia University, I worked on several projects, including:
 
